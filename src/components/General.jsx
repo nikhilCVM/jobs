@@ -33,7 +33,7 @@ export default function General(){
             
 
             <h1>EDUCATION</h1>
-            <h2>School Name:</h2>
+            <h2>School Named:</h2>
             <input type="text" value={school} onChange={(event)=>setSchool(event.target.value)} />
             
             <h2>title of study</h2>
